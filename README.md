@@ -1,5 +1,5 @@
 /Intro
- (Note: this code was not written by me, I found it on YouTube and made a few modifications.)
+ (Note: this code was not written by me, I found it on YouTube and made a few modifications. There is not much useful code on github so far.)
  
 Welcome to the world of automating your Google Sheets with GPT-3!
 With this code, you'll be able to take your spreadsheet game to the next level.
