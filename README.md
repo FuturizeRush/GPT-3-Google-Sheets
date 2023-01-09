@@ -33,7 +33,7 @@ Replace <Your-OPENAI-KEY> in the script with your actual OpenAI API key.
 
 
 
-腳本設置步驟
+設置步驟
  
 1.打開您的 Google 表格。
  
