@@ -1,6 +1,7 @@
 /Intro
 
  (Note: this code was not written by me, I found it on YouTube and made a few modifications. 
+ 
  Because I haven't been able to find many codes on Github that I can use properly.)
  
 Welcome to the world of automating your Google Sheets with GPT-3!
