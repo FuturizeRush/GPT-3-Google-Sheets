@@ -9,14 +9,15 @@ With this code, you'll be able to take your spreadsheet game to the next level.
 But before you get too excited, make sure you replace "your-openai-key" with your actual openai key or else it's not going to work.
 (You also have to know how to run a google app script at the first time you use it! This is the hardest part.)
 
-Trust me, I learned that the hard way.
+Trust me, I learned that the hard way. (but that's because i don't even know how to code, i'm pretty sure you can do it right!)
 Once you've got that squared away, you'll be able to unleash the full power of GPT-3 on your spreadsheet tasks.
 Whether it's generating reports or analyzing data, this code has got you covered.
 So go ahead, give it a try and see what kind of magic you can create with GPT-3 and Google Sheets.
 And if you have any cool tricks or modifications you come up with, let me know!
 I'm always looking for ways to improve my spreadsheet game.
-
-
+ 
+--------------------------------------------------------------------------------------------------------------
+ 
 /Setting up the script for Google Sheets
 
 Go to your Google Sheets and click on the "Extensions" tab.
@@ -25,6 +26,7 @@ Paste the script from the file "paste it on your app script" into the editor.
 Go to your OpenAI account (https://beta.openai.com/account/api-keys) and generate or retrieve your API key.
 Replace <Your-OPENAI-KEY> in the script with your actual OpenAI API key.
 
+--------------------------------------------------------------------------------------------------------------
 
 /Here are a few things that beginner users should keep in mind when setting up App Script:
 
