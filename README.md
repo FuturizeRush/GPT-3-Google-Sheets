@@ -1,5 +1,6 @@
 /Intro
- (Note: this code was not written by me, I found it on YouTube and made a few modifications. There is not much useful code on github so far.)
+ (Note: this code was not written by me, I found it on YouTube and made a few modifications. 
+ Because I haven't been able to find many codes on Github that I can use properly.)
  
 Welcome to the world of automating your Google Sheets with GPT-3!
 With this code, you'll be able to take your spreadsheet game to the next level.
@@ -50,13 +51,13 @@ Replace <Your-OPENAI-KEY> in the script with your actual OpenAI API key.
  
 以下是初學者在設定 App Script 時應該注意的事項
 
-1.確保給予腳本適當的權限。根據您希望腳本執行的操作，您可能需要將其授予特定 Google 表格或其他 Google 應用程序的訪問權限。
+1.確保給予腳本適當的權限。根據你希望腳本執行的操作，可能需要將其授予特定 Google 表格或其他 Google 應用程序的訪問權限。
  
 2.在大規模使用之前先測試腳本。最好先小規模測試腳本，以確保其正常運行。
  
-3.利用 App Script 提供的調試工具來解決可能出現的問題。調試器可幫助您追踪並修復代碼中的錯誤。
+3.利用 App Script 提供的調試工具來解決可能出現的問題。調試器可幫助你追踪並修復代碼中的錯誤。
  
-4.利用可供您使用的在線資源。有很多教程和論壇，您可以在那裡了解更多關於 App Script 的信息，並尋求解決任何問題的幫助。
+4.利用可供你使用的在線資源。有很多教程和論壇，可以在那裡了解更多關於 App Script 的信息，並尋求解決任何問題的幫助。
 
 
 
@@ -78,13 +79,18 @@ Replace <Your-OPENAI-KEY> in the script with your actual OpenAI API key.
  
 App Scriptを設定する際に初心者が注意すべきことは、次のようなものがあります。
 
-1.スクリプトに適切なアクセス権を与えることを忘れないでください。スクリプトが実行するアクションによっては、Google Sheetsやその他のGoogleアプリにアクセスする必要があるかもしれません。
+1.スクリプトに適切なアクセス権を与えることを忘れないでください。
  
-2.スクリプトを使用する前にテストしてみましょう。小規模でスクリプトをテストすることで、意図した通りに機能しているかどうかを確認できます。
+  スクリプトが実行するアクションによっては、Google Sheetsやその他のGoogleアプリにアクセスする必要があるかもしれません。
  
-3.App Scriptが提供するデバッグツールを使用して、起きた問題を解決しましょう。デバッガーを使えば、コード内のエラーを追跡して修正することができます。
+2.スクリプトを使用する前にテストしてみましょう。
  
-4.利用できるオンラインリソースを活用してみましょう。App Scriptのより詳細な情報や問題解決のためのヘルプが提供されているチュートリアルやフォーラムがたくさんあります。
-
-
-
+  小規模でスクリプトをテストすることで、意図した通りに機能しているかどうかを確認できます。
+ 
+3.App Scriptが提供するデバッグツールを使用して、起きた問題を解決しましょう。
+ 
+  デバッガーを使えば、コード内のエラーを追跡して修正することができます。
+ 
+4.利用できるオンラインリソースを活用してみましょう。
+ 
+  App Scriptのより詳細な情報や問題解決のためのヘルプが提供されているチュートリアルやフォーラムがたくさんあります。
