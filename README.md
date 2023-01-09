@@ -20,11 +20,15 @@ I'm always looking for ways to improve my spreadsheet game.
  
 /Setting up the script for Google Sheets
 
-Go to your Google Sheets and click on the "Extensions" tab.
-Click on "Apps Script" in the dropdown menu.
-Paste the script from the file "paste it on your app script" into the editor.
-Go to your OpenAI account (https://beta.openai.com/account/api-keys) and generate or retrieve your API key.
-Replace <Your-OPENAI-KEY> in the script with your actual OpenAI API key.
+1.Go to your Google Sheets and click on the "Extensions" tab.
+  
+2.Click on "Apps Script" in the dropdown menu. 
+  
+3.Paste the script from the file "paste it on your app script" into the editor.
+  
+4.Go to your OpenAI account (https://beta.openai.com/account/api-keys) and generate or retrieve your API key.
+  
+5.Replace <Your-OPENAI-KEY> in the script with your actual OpenAI API key.
 
 --------------------------------------------------------------------------------------------------------------
 
