@@ -35,8 +35,11 @@ I'm always looking for ways to improve my spreadsheet game.
 /Here are a few things that beginner users should keep in mind when setting up App Script:
 
 1.Make sure to give the script proper permissions. Depending on the actions you want the script to perform, you may need to grant it access to specific Google Sheets or other Google apps.
+  
 2.Test your script before using it on a large scale. It's a good idea to test the script on a small scale first to make sure it's functioning as intended.
+  
 3.Use the debug tools provided by App Script to troubleshoot any issues that may arise. The debugger can help you track down and fix errors in your code.
+  
 4.Take advantage of the online resources available to you. There are plenty of tutorials and forums where you can learn more about App Script and get help with any issues you may encounter.
  
  
