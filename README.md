@@ -32,10 +32,12 @@ Replace <Your-OPENAI-KEY> in the script with your actual OpenAI API key.
 2.Test your script before using it on a large scale. It's a good idea to test the script on a small scale first to make sure it's functioning as intended.
 3.Use the debug tools provided by App Script to troubleshoot any issues that may arise. The debugger can help you track down and fix errors in your code.
 4.Take advantage of the online resources available to you. There are plenty of tutorials and forums where you can learn more about App Script and get help with any issues you may encounter.
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+  
 設置步驟
  
 1.打開您的 Google 表格。
@@ -60,10 +62,10 @@ Replace <Your-OPENAI-KEY> in the script with your actual OpenAI API key.
 3.利用 App Script 提供的調試工具來解決可能出現的問題。調試器可幫助你追踪並修復代碼中的錯誤。
  
 4.利用可供你使用的在線資源。有很多教程和論壇，可以在那裡了解更多關於 App Script 的信息，並尋求解決任何問題的幫助。
-
-
-
-
+ 
+ 
+ 
+ 
 スクリプトの設定方法
  
 1.Googleシートを開きます。
