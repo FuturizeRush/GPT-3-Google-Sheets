@@ -36,7 +36,7 @@ Replace <Your-OPENAI-KEY> in the script with your actual OpenAI API key.
  
  
  
- 
+--------------------------------------------------------------------------------------------------------------
   
 設置步驟
  
@@ -52,6 +52,7 @@ Replace <Your-OPENAI-KEY> in the script with your actual OpenAI API key.
  
 6.將腳本中的<Your-OPENAI-KEY>替換為您的實際 OpenAI API 金鑰。
 
+--------------------------------------------------------------------------------------------------------------
  
 以下是初學者在設定 App Script 時應該注意的事項
 
@@ -64,7 +65,7 @@ Replace <Your-OPENAI-KEY> in the script with your actual OpenAI API key.
 4.利用可供你使用的在線資源。有很多教程和論壇，可以在那裡了解更多關於 App Script 的信息，並尋求解決任何問題的幫助。
  
  
- 
+--------------------------------------------------------------------------------------------------------------
  
 スクリプトの設定方法
  
@@ -75,7 +76,7 @@ Replace <Your-OPENAI-KEY> in the script with your actual OpenAI API key.
 5.OpenAIアカウント（https://beta.openai.com/account/api-keys）にアクセスしてAPIキーを生成または取得します。
 6.スクリプト内の<Your-OPENAI-KEY>を実際のOpenAI APIキーに置き換えます。
 
- 
+--------------------------------------------------------------------------------------------------------------
 App Scriptを設定する際に初心者が注意すべきことは、次のようなものがあります。
 
 1.スクリプトに適切なアクセス権を与えることを忘れないでください。スクリプトが実行するアクションによっては、Google Sheetsやその他のGoogleアプリにアクセスする必要があるかもしれません。
